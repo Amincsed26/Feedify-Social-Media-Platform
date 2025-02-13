@@ -1,5 +1,7 @@
 # Feedify
 Your Friendly Neighborhood Social-Media Platform
+---
+
 ![image](https://github.com/user-attachments/assets/453d2a1f-5f5f-44e9-8a2b-e107cea969cd)
 
 
